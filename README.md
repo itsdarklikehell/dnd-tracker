@@ -10,6 +10,11 @@ dnd-tracker is a local web app designed to help you manage your Dungeons & Drago
 
 ## 🖥️ System Requirements
 
+## Ontwikkeltijdlijn
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/dnd-tracker/master/gource.mp4" controls width="100%"></video>
+
+
 - Windows 10 or later (64-bit recommended)
 - At least 4GB of RAM
 - 500MB of free disk space
